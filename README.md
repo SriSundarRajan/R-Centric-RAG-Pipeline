@@ -14,7 +14,7 @@ R version 4.5.0
 
 <p align="center">
 
-<img src="pipeline_overview.png" alt="pipeline_overview" style="width:70%; max-width:700px;"/>
+<img src="pipeline_overview.png" alt="pipeline_overview" style="width:100%; max-width:700px;"/>
 
 </p>
 
