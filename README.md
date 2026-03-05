@@ -4,7 +4,7 @@ A unified Retrieval-Augmented Generation (RAG) pipeline in R that processes **PD
 
 This repo contains two pipeline 
 1.  **[Main RAG Pipeline]**  - Designed for larger documents such as **PDF and Excel files** and performs image annotation
-2.  **[Experimental Pipeline](Docling_Ragnar_Pipeline/readme.md)**  - Process smaller files efficinetly using Docling  HierarchicalChunker
+2.  **[Experimental Pipeline](Docling_Ragnar_Pipeline)**  - Process smaller files efficinetly using Docling  HierarchicalChunker
 
 ###  setup in RStudio Pro
 
