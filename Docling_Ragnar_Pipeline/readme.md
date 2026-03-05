@@ -8,7 +8,7 @@
 
 <p align="center">
 
-<img src="Pipeline%20overview.png" alt="Pipeline Overview" style="width:100%; max-width:700px;"/>
+<img src="Pipeline_overview.png" alt="Pipeline overview" style="width:100%; max-width:700px;"/>
 
 </p>
 
