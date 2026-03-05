@@ -1,4 +1,4 @@
-# RAG Pipeline using docling chunkig and Ragnar
+# RAG Pipeline using 'Docling' chunking and 'Ragnar'
 
 **Retrieval-Augmented Generation (RAG)** pipeline that integrates **R** and **Python** via `reticulate`. This pipeline processes documents, chunks them intelligently using `Docling`, creates embeddings, and enables Hybrid search using the `ragnar` package with DuckDB vector store.
 
