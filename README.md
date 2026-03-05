@@ -2,6 +2,10 @@
 
 A unified Retrieval-Augmented Generation (RAG) pipeline in R that processes **PDF** and **Excel** files into a searchable vector database. PDFs are converted to markdown via Mistral OCR (with image annotation), and Excel files are chunked row-by-row. All chunks are embedded and stored in a DuckDB-backed vector store for semantic retrieval using an LLM.
 
+This repo contains two pipeline 
+1.  **[Main RAG Pipeline]**  - Designed for larger documents such as **PDF and Excel files** and performs image annotation
+2.  **[Experimental Pipeline](Docling_Ragnar_Pipeline/readme.md)**  - Process smaller files efficinetly using Docling  HierarchicalChunker
+
 ###  setup in RStudio Pro
 
 R version 4.5.0
