@@ -1,6 +1,4 @@
-# RAG Pipeline for Merlin
-
-**Environment**: This pipeline runs in RStudio using the **gbds-2025.3.0.sif** image.
+# RAG Pipeline using docling chunkig and Ragnar
 
 **Retrieval-Augmented Generation (RAG)** pipeline that integrates **R** and **Python** via `reticulate`. This pipeline processes documents, chunks them intelligently using `Docling`, creates embeddings, and enables Hybrid search using the `ragnar` package with DuckDB vector store.
 
@@ -10,7 +8,7 @@
 
 <p align="center">
 
-<img src="Pipeline%20overview.png" alt="Pipeline Overview" style="width:70%; max-width:700px;"/>
+<img src="Pipeline%20overview.png" alt="Pipeline Overview" style="width:100%; max-width:700px;"/>
 
 </p>
 
