@@ -266,8 +266,8 @@ Sys.setenv(OPENAI_API_URL = "your-api-url")
 
 ``` bash
 source ~/rag_project/.venv/bin/activate
-python -c "import docling; print('✓ docling installed')"
-python -c "import tiktoken; print('✓ tiktoken installed')"
+python -c "import docling; print('docling installed')"
+python -c "import tiktoken; print('tiktoken installed')"
 ```
 
 ------------------------------------------------------------------------
@@ -282,4 +282,4 @@ python -c "import tiktoken; print('✓ tiktoken installed')"
 ------------------------------------------------------------------------
 
 
-The pipeline was tested with smaller files, and the chunks were retrieved correctly. For handling larger files, a different pipeline was created that supports both PDF and Excel processing. Please feel free to reach out if you have any doubts.
+The pipeline was tested with smaller files, and the chunks were retrieved correctly. For handling larger files, a different [pipeline](https://github.com/SriSundarRajan/R-Centric-RAG-Pipeline/tree/main) was created that supports both PDF and Excel processing. Please feel free to reach out if you have any doubts.
