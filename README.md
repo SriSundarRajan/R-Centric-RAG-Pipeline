@@ -337,3 +337,8 @@ To further improve the speed, scalability, and robustness of the pipeline
 
 ----
 Thank you! If you have any doubts or need further assistance, please feel free to reach out.
+
+
+Acknowledgement
+
+Big thanks to Pietro Mascheroni, Torben Brehme and Steven Brooks for guiding me throughout this project. Your clear feedback and support really helped me build and improve this pipeline.
